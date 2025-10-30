@@ -7,7 +7,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi,+I'm+lutfi238;Welcome+to+my+GitHub+profile!;I+love+coding+and+innovation!;Let’s+build+something+awesome!&font=Fira%20Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C+I%27m+lutfi238;Welcome+to+my+GitHub+profile!;I+love+coding+and+innovation!;Let%E2%80%99s+build+something+awesome!&font=Fira+Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
 </p>
 
 ---
