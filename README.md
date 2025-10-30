@@ -32,16 +32,4 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfi238&layout=compact&theme=radical" />
 </div>
 
----
-
-### 🌱 Currently Learning
-- Advanced React patterns & performance optimization  
-- Backend architecture with Node.js & Express  
-- Cloud deployment (AWS / Vercel / Render)
-
-### 💬 Let’s Connect!
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lutfi238)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/lutfi238)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
-
 > 🔥 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
