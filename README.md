@@ -59,8 +59,6 @@
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfi238&theme=radical&title=-Experience" alt="lutfi238" /></a>
   <br/>
   <img src="https://github.com/lutfi238/lutfi238/blob/metrics/github-metrics.svg" alt="Metrics" />
-  <br/>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lutfi238&theme=radical" alt="lutfi238" />
 </div>
 
 ---
