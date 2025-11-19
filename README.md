@@ -51,7 +51,7 @@
 ### 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfi238&theme=radical" alt="lutfi238" /></a>
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfi238&theme=radical&title=-Experience" alt="lutfi238" /></a>
   <br/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lutfi238&show_icons=true&theme=radical&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfi238&layout=compact&theme=radical" />
