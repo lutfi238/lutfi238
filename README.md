@@ -37,14 +37,19 @@
 
 ---
 
-### 📌 Pinned Repositories
+### 🐍 My Contribution Snake
 
-- **[uptimerobot](https://github.com/lutfi238/uptimerobot)** (JavaScript) - Forked from DisCoderID/uptimerobot
-- **[Zygisk-Il2CppDumper](https://github.com/lutfi238/Zygisk-Il2CppDumper)** (C) - Using Zygisk to dump il2cpp data at runtime
-- **[midjourney-bot](https://github.com/lutfi238/midjourney-bot)** (JavaScript) - A opensource Discord Midjourney bot for all AI lovers.
-- **[belajar-python](https://github.com/lutfi238/belajar-python)** (Python) - kumpulan data file tugas random
-- **[project-perpustakaan](https://github.com/lutfi238/project-perpustakaan)**
-- **[firdaus-hub](https://github.com/lutfi238/firdaus-hub)** (HTML)
+<div align="center">
+  <img src="https://github.com/lutfi238/lutfi238/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+</div>
+
+---
+
+### 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=lutfi238&theme=react-dark" alt="Activity Graph" />
+</div>
 
 ---
 
