@@ -13,17 +13,6 @@
 
 ---
 
-### 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **a cool AI project**
-- 🌱 I’m currently learning **Advanced Deep Learning Techniques**
-- 👯 I’m looking to collaborate on **Open Source AI Projects**
-- 💬 Ask me about **Python, JavaScript, AI, and Web Development**
-- 📫 How to reach me: **muhammadlutfifirdaus@gmail.com**
-- ⚡ Fun fact: **My coding partner is an AI**
-
----
-
 ### 🛠️ Tech Stack
 
 <p align="center">
@@ -58,7 +47,8 @@
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lutfi238&theme=radical&title=-Experience" alt="lutfi238" /></a>
   <br/>
-  <img src="https://github.com/lutfi238/lutfi238/blob/metrics/github-metrics.svg" alt="Metrics" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lutfi238&show_icons=true&theme=radical&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lutfi238&layout=compact&theme=radical" />
 </div>
 
 ---
