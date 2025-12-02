@@ -8,7 +8,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C+I%27m+lutfi238;Welcome+to+my+GitHub+profile!;I+love+coding+and+innovation!;Let%E2%80%99s+build+something+awesome!&font=Fira+Code&center=true&width=440&height=45&color=61DAFB&vCenter=true&size=22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?lines=Hi%2C+I%27m+lutfi238;Welcome+to+my+GitHub+profile!;I+love+coding+and+innovation!;Let%E2%80%99s+build+something+awesome!&font=Fira+Code&center=true&width=380&height=50" alt="Typing SVG" />
 </p>
 
 ---
@@ -29,7 +29,11 @@
 ### 🐍 My Contribution Snake
 
 <div align="center">
-  <img src="https://github.com/lutfi238/lutfi238/raw/output/github-contribution-grid-snake.svg" alt="Snake Game" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lutfi238/lutfi238/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/lutfi238/lutfi238/output/github-contribution-grid-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/lutfi238/lutfi238/output/github-contribution-grid-snake.svg" />
+  </picture>
 </div>
 
 ---
@@ -53,4 +57,4 @@
 
 ---
 
-> 🔥 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+> 🔥 *"Code is like humor. When you have to explain it, it's bad."* – Cory House
